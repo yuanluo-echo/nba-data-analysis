@@ -15,3 +15,4 @@
 ```bash
 pip install pandas matplotlib seaborn
 python nba_analysis.py
+![球员得分柱状图](charts/score_bar.png)
